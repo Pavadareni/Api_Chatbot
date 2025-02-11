@@ -31,7 +31,7 @@
 - Get Your Gemini API Key at:  
    [https://aistudio.google.com/app/apikey](https://aistudio.google.com/app/apikey)
 
-- Create an environment file named ```.env```      
+- Create an environment file named ```.env``` in API_Chatbot directory.   
   Copy and paste the API Key in .env file
   ```
    GEMINI_API_KEY = "your key"
