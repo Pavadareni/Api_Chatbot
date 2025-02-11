@@ -31,7 +31,8 @@
 - Get Your Gemini API Key at:  
    [https://aistudio.google.com/app/apikey](https://aistudio.google.com/app/apikey)
 
-- Copy and paste the API Key in .env file
+- Create an environment file named ```.env```      
+  Copy and paste the API Key in .env file
   ```
    GEMINI_API_KEY = "your key"
   ```
